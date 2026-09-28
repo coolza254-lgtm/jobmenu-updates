@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
-  "minNativeVersion": 1,
-  "url": "bundles/0.1.1.zip",
-  "sha256": "cfee909cac44a6c8cf33f72ce4c40ef053b5a0060686dce734a6075f4fffb8ee",
-  "notes": "ทดสอบระบบปล่อยอัพเดทครั้งแรก",
+  "version": "0.1.2",
+  "minNativeVersion": 2,
+  "url": "bundles/0.1.2.zip",
+  "sha256": "42810682d1850482dc71da74148c963dc423bb9e062bee6aa8a5fe11d818ced8",
+  "notes": "APK ตัวแรก (0.1.2)",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-28T18:22:31.866Z"
+  "released_at": "2026-09-28T19:01:21.140Z"
 }
