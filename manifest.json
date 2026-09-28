@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.3.zip",
-  "sha256": "5cb42cf000b7da8bd47d74cb194d639830a5cd1b597eaa7afb8e61713bece831",
-  "notes": "ทดสอบ Live Update บนมือถือ",
+  "url": "bundles/0.1.4.zip",
+  "sha256": "4469df43124f7013c417744e69a46971b3ee6d29e56d85a8a08121cee8f2cc1d",
+  "notes": "ตารางกะ + ใครเข้างานบ้าง / ใครเจอใคร",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-28T19:11:05.898Z"
+  "released_at": "2026-09-28T19:34:14.098Z"
 }
