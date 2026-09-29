@@ -1,9 +1,9 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.4.zip",
-  "sha256": "4469df43124f7013c417744e69a46971b3ee6d29e56d85a8a08121cee8f2cc1d",
-  "notes": "ตารางกะ + ใครเข้างานบ้าง / ใครเจอใคร",
+  "url": "bundles/0.1.5.zip",
+  "sha256": "1e09c1bb8d157d2461a7c4befb2435e78dd31eb646064c6b2b99a5facd0d5612",
+  "notes": "",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-28T19:34:14.098Z"
+  "released_at": "2026-09-29T04:23:17.342Z"
 }
