@@ -1,9 +1,9 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.6.zip",
-  "sha256": "4a91b7decc4b90aba2ad29ff35405f78a09d0cec1a3308300d3a3bdab610d950",
+  "url": "bundles/0.1.7.zip",
+  "sha256": "d7c4395648e7625a6c8adf6d29027135952a973822f2d4740c0be72e7dc30909",
   "notes": "",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-29T04:43:32.766Z"
+  "released_at": "2026-09-29T05:06:21.303Z"
 }
