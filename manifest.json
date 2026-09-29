@@ -1,9 +1,9 @@
 {
-  "version": "0.1.10",
-  "minNativeVersion": 2,
-  "url": "bundles/0.1.10.zip",
-  "sha256": "a0c788a933b76f202c4ec65a83d8f5d7bab2c5123462ed5b6bda843259d23c30",
-  "notes": "",
+  "version": "0.1.11",
+  "minNativeVersion": 3,
+  "url": "bundles/0.1.11.zip",
+  "sha256": "2e5fda7433b20b54293df3b72094542a2591bf21304e9fe973256dbf8a0a5d08",
+  "notes": "เตือนเต็มจอแบบนาฬิกาปลุก",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-29T20:06:52.142Z"
+  "released_at": "2026-09-29T20:09:17.651Z"
 }
