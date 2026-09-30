@@ -1,9 +1,9 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "minNativeVersion": 3,
-  "url": "bundles/0.1.11.zip",
-  "sha256": "2e5fda7433b20b54293df3b72094542a2591bf21304e9fe973256dbf8a0a5d08",
-  "notes": "เตือนเต็มจอแบบนาฬิกาปลุก",
+  "url": "bundles/0.1.12.zip",
+  "sha256": "19b4517e8749006331783ec3273b90cf269d2dc6bd4eb84e7775b573b0f3bbd2",
+  "notes": "",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-29T20:09:17.651Z"
+  "released_at": "2026-09-30T04:56:41.597Z"
 }
