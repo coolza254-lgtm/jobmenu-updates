@@ -1,9 +1,9 @@
 {
-  "version": "0.1.12",
-  "minNativeVersion": 3,
-  "url": "bundles/0.1.12.zip",
-  "sha256": "19b4517e8749006331783ec3273b90cf269d2dc6bd4eb84e7775b573b0f3bbd2",
-  "notes": "",
+  "version": "0.1.13",
+  "minNativeVersion": 4,
+  "url": "bundles/0.1.13.zip",
+  "sha256": "9e2a21c148196b3269a269cf186d28ddf14631ff3e8fccdd940aba8417092c86",
+  "notes": "เต็มจอแม้กำลังใช้มือถือ",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-30T04:56:41.597Z"
+  "released_at": "2026-09-30T04:59:00.077Z"
 }
