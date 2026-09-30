@@ -1,9 +1,9 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "minNativeVersion": 4,
-  "url": "bundles/0.1.13.zip",
-  "sha256": "9e2a21c148196b3269a269cf186d28ddf14631ff3e8fccdd940aba8417092c86",
-  "notes": "เต็มจอแม้กำลังใช้มือถือ",
+  "url": "bundles/0.1.14.zip",
+  "sha256": "385d99b3b38c1f0e54aeac4489544ebac2b9119df7524a0c90c1fe96ef08e627",
+  "notes": "",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-30T04:59:00.077Z"
+  "released_at": "2026-09-30T05:07:47.901Z"
 }
