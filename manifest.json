@@ -1,9 +1,9 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.15.zip",
-  "sha256": "fef1e1f98f66fd0b989f9ebe3cd2c4840b962354d549e6cb04539deb5129c991",
-  "notes": "ตัวช่วยนับสต็อก",
+  "url": "bundles/0.1.16.zip",
+  "sha256": "3e737a63321a6ab72ef0267be7c172508ff6a42996e2cf4e514adff8a37f3825",
+  "notes": "นับสต็อก: หมวดหมู่ ยิงแล้วกรอกจำนวน ส่งออก Excel/PDF",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-03T08:02:23.120Z"
+  "released_at": "2026-10-03T08:25:36.769Z"
 }
