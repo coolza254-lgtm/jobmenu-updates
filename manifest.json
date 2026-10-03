@@ -1,9 +1,9 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.18.zip",
-  "sha256": "631d1d4066720219f3769004ea55c4a31f28910e639ebfbd669e961586f66891",
-  "notes": "นับสต็อก: ป้ายรหัสเก่า",
+  "url": "bundles/0.1.19.zip",
+  "sha256": "25e77b6b995ace42934aa5e465dfd146d6118d4297b959cbf22468ff0932ff72",
+  "notes": "นับสต็อก: คอเสื้อ + ตัวเลือกกดเลือก",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-03T08:42:18.225Z"
+  "released_at": "2026-10-03T08:45:23.626Z"
 }
