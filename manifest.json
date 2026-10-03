@@ -1,9 +1,9 @@
 {
-  "version": "0.1.14",
-  "minNativeVersion": 4,
-  "url": "bundles/0.1.14.zip",
-  "sha256": "385d99b3b38c1f0e54aeac4489544ebac2b9119df7524a0c90c1fe96ef08e627",
-  "notes": "",
+  "version": "0.1.15",
+  "minNativeVersion": 2,
+  "url": "bundles/0.1.15.zip",
+  "sha256": "fef1e1f98f66fd0b989f9ebe3cd2c4840b962354d549e6cb04539deb5129c991",
+  "notes": "ตัวช่วยนับสต็อก",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-09-30T05:07:47.901Z"
+  "released_at": "2026-10-03T08:02:23.120Z"
 }
