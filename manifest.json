@@ -1,9 +1,9 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.17.zip",
-  "sha256": "1fca59b94b50a326edc5d4d95d3fcc718e760d7136d2dfd912d8005c3995a63f",
-  "notes": "นับสต็อก: ถ่ายรูปสินค้า (ไม่ต้องลง APK ใหม่)",
+  "url": "bundles/0.1.18.zip",
+  "sha256": "631d1d4066720219f3769004ea55c4a31f28910e639ebfbd669e961586f66891",
+  "notes": "นับสต็อก: ป้ายรหัสเก่า",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-03T08:40:24.596Z"
+  "released_at": "2026-10-03T08:42:18.225Z"
 }
