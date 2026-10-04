@@ -1,9 +1,9 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.26",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.25.zip",
-  "sha256": "921303ac9b43f76b3c00d5f1a6a9929016bc818ed14f269f08a20b1c41bb6490",
-  "notes": "รูปสินค้าจากเว็บ + รูปใหญ่ขึ้น",
+  "url": "bundles/0.1.26.zip",
+  "sha256": "cc9934e59ce5b0c3634101573cf417aeaaf83f67d7e9330d4a24f1fe44f9c426",
+  "notes": "หน้าสแกนใหม่: รูปสินค้า · กดค้างเพื่อเลือก/ลบ · ปัดขวา = ปริ้นเสร็จ",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T11:57:18.003Z"
+  "released_at": "2026-10-04T12:22:58.193Z"
 }
