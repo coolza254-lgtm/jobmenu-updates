@@ -1,9 +1,9 @@
 {
-  "version": "0.1.22",
+  "version": "0.1.23",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.22.zip",
-  "sha256": "f8646c3e2b82b3d0bced323204951fcc213968b40b827fee2337db7a00ad5f59",
-  "notes": "บาร์โค้ดหน้าร้าน 8 หลัก → รหัสเว็บ (250 + ตัดหลักท้าย + 00)",
+  "url": "bundles/0.1.23.zip",
+  "sha256": "98575afa33b6f77753cebd07e874bb53f15f01b2b991b5d04253e6585fab929c",
+  "notes": "ค้นสินค้าผ่านหน้าค้นหาของเว็บเมื่อช่องค้นด่วนไม่เจอ",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T11:29:42.810Z"
+  "released_at": "2026-10-04T11:41:24.118Z"
 }
