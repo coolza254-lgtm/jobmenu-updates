@@ -1,9 +1,9 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.26.zip",
-  "sha256": "cc9934e59ce5b0c3634101573cf417aeaaf83f67d7e9330d4a24f1fe44f9c426",
-  "notes": "หน้าสแกนใหม่: รูปสินค้า · กดค้างเพื่อเลือก/ลบ · ปัดขวา = ปริ้นเสร็จ",
+  "url": "bundles/0.1.27.zip",
+  "sha256": "d11c277396f6664c6ca5c5422244cebf21618b731f188acdf1228da96c1b697f",
+  "notes": "ธีมสมุดโน๊ต · อนิเมชันเมนู · เสียงบี๊บตอนสแกน (เปิด/ปิดได้)",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T12:22:58.193Z"
+  "released_at": "2026-10-04T12:38:59.564Z"
 }
