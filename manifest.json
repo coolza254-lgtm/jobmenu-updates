@@ -1,9 +1,9 @@
 {
-  "version": "0.1.30",
+  "version": "0.1.31",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.30.zip",
-  "sha256": "37fa4cbb2ea0630dde6c54186695d63ebd6a714fd5991e1b69ca35866ee44883",
-  "notes": "สลับภาษาทั้งแอพ ไทย/อังกฤษ + ข้อมูลเว็บ 2 ภาษา",
+  "url": "bundles/0.1.31.zip",
+  "sha256": "dfe46a1cb974e60691db9b2fbf972ee398e5ee02bf5230d2e3bb754c2fd71e6f",
+  "notes": "ลบระบบนับสต็อก",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T13:21:07.525Z"
+  "released_at": "2026-10-04T13:25:25.127Z"
 }
