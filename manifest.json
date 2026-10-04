@@ -1,9 +1,9 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.19.zip",
-  "sha256": "25e77b6b995ace42934aa5e465dfd146d6118d4297b959cbf22468ff0932ff72",
-  "notes": "นับสต็อก: คอเสื้อ + ตัวเลือกกดเลือก",
+  "url": "bundles/0.1.20.zip",
+  "sha256": "e4ec23db0717980b86f33389a7c589c092c7dac522c8af272c9acc92ae986b64",
+  "notes": "สแกนบาร์โค้ด → ดูข้อมูลสินค้าจากเว็บ Nitori ในแอพ",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-03T08:45:23.626Z"
+  "released_at": "2026-10-04T11:00:19.364Z"
 }
