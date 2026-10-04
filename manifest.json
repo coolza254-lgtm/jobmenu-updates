@@ -1,9 +1,9 @@
 {
-  "version": "0.1.23",
+  "version": "0.1.24",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.23.zip",
-  "sha256": "98575afa33b6f77753cebd07e874bb53f15f01b2b991b5d04253e6585fab929c",
-  "notes": "ค้นสินค้าผ่านหน้าค้นหาของเว็บเมื่อช่องค้นด่วนไม่เจอ",
+  "url": "bundles/0.1.24.zip",
+  "sha256": "928ba80a8a6333efa8cbb50348f0d70ae8fa2f1a0a01878abdf31124b1c459e8",
+  "notes": "ยิงสติกเกอร์ไทย 13 หลักค้นเจอแล้ว + สินค้ารุ่นที่ท้ายไม่ใช่ 00",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T11:41:24.118Z"
+  "released_at": "2026-10-04T11:49:30.628Z"
 }
