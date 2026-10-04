@@ -1,9 +1,9 @@
 {
-  "version": "0.1.20",
+  "version": "0.1.21",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.20.zip",
-  "sha256": "e4ec23db0717980b86f33389a7c589c092c7dac522c8af272c9acc92ae986b64",
-  "notes": "สแกนบาร์โค้ด → ดูข้อมูลสินค้าจากเว็บ Nitori ในแอพ",
+  "url": "bundles/0.1.21.zip",
+  "sha256": "9f8519b5a7eca8065b45bd1340f84a107a43fcc82fa96591bee6a8d3e688b3b9",
+  "notes": "สแกนบาร์โค้ดหน้าร้าน (8 หลัก) ค้นเจอในเว็บ Nitori แล้ว",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T11:00:19.364Z"
+  "released_at": "2026-10-04T11:27:43.226Z"
 }
