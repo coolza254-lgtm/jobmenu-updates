@@ -1,9 +1,9 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.29.zip",
-  "sha256": "b073613987bf567e71bcf5f08bae5fa17ee949a913c7b8782705f6d682176a83",
-  "notes": "เสียงบี๊บตอนสแกนไวขึ้น",
+  "url": "bundles/0.1.30.zip",
+  "sha256": "37fa4cbb2ea0630dde6c54186695d63ebd6a714fd5991e1b69ca35866ee44883",
+  "notes": "สลับภาษาทั้งแอพ ไทย/อังกฤษ + ข้อมูลเว็บ 2 ภาษา",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T13:01:08.165Z"
+  "released_at": "2026-10-04T13:21:07.525Z"
 }
