@@ -1,9 +1,9 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.28.zip",
-  "sha256": "032605aae4ba0e2a77fc17d17c2989462f283430a30e47d0f6aa21eecef189bc",
-  "notes": "ชื่อสินค้า 2 ภาษา (ดึงชื่ออังกฤษจากเว็บ)",
+  "url": "bundles/0.1.29.zip",
+  "sha256": "b073613987bf567e71bcf5f08bae5fa17ee949a913c7b8782705f6d682176a83",
+  "notes": "เสียงบี๊บตอนสแกนไวขึ้น",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T12:58:36.750Z"
+  "released_at": "2026-10-04T13:01:08.165Z"
 }
