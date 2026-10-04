@@ -1,9 +1,9 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "minNativeVersion": 2,
-  "url": "bundles/0.1.31.zip",
-  "sha256": "dfe46a1cb974e60691db9b2fbf972ee398e5ee02bf5230d2e3bb754c2fd71e6f",
-  "notes": "ลบระบบนับสต็อก",
+  "url": "bundles/0.1.32.zip",
+  "sha256": "17ac5fb48b5b88b41f56353971b836332a9a92bd3ecf9142b3b923595b01f019",
+  "notes": "ของลดราคา → ป้าย Discount อัตโนมัติ",
   "apkUrl": "apk/latest.apk",
-  "released_at": "2026-10-04T13:25:25.127Z"
+  "released_at": "2026-10-04T13:53:45.635Z"
 }
